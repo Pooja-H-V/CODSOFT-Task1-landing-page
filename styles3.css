@@ -15,7 +15,6 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
-    padding: 20px 0;
 }
 
 /* Header styling */
@@ -94,7 +93,7 @@ header nav ul li a:hover {
 
 .about-section {
     background: #9d7887;
-    padding: 50px 0;
+    padding: 70px 0;
     text-align: center;
 }
 
@@ -105,7 +104,7 @@ header nav ul li a:hover {
 }
 
 .collections-section {
-    padding: 50px 0;
+    padding: 70px 0;
     text-align: center;
 }
 
@@ -152,7 +151,7 @@ header nav ul li a:hover {
 
 .shop-section {
     background: #c198bc;
-    padding: 50px 0;
+    padding: 70px 0;
     text-align: center;
 }
 
@@ -163,7 +162,7 @@ header nav ul li a:hover {
 }
 
 .contact-section {
-    padding: 50px 0;
+    padding: 70px 0;
     text-align: center;
 }
 
@@ -203,7 +202,7 @@ header nav ul li a:hover {
 
 /* Others section styling */
 .others-section {
-    padding: 50px 0;
+    padding: 70px 0;
     text-align: center;
 }
 
